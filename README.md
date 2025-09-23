@@ -91,7 +91,7 @@ Make sure you have the following installed on your machine:
 1.  **Clone the repository:**
 
     ```sh
-    git clone https://github.com/akshaytiwari27/ai-virtual-assistant.git
+    git clone https://github.com/AkshayTiwari27/AI-Virtual-Assistant.git
     cd ai-virtual-assistant
     ```
 
