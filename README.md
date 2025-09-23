@@ -1,5 +1,14 @@
 # AI Virtual Assistant ✨: A Voice-Powered Full-Stack Application
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E77EE?style=for-the-badge&logo=google-gemini&logoColor=white)
 ## Executive Summary
 
 AI Virtual Assistant is a sophisticated, full-stack application engineered to provide a hands-free, voice-controlled user experience. This project demonstrates a modern, robust architecture using the **MERN stack** (MongoDB, Express, React, Node.js). It features custom **JWT authentication**, real-time voice recognition via the **Web Speech API**, natural language processing powered by **Google's Gemini AI**, and integration with **Cloudinary** for media handling. The platform is designed to be customizable, secure, and intuitive, showcasing a comprehensive skill set in full-stack development and AI integration.
